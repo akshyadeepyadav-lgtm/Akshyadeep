@@ -1,4 +1,4 @@
 # Akshyadeep
 This is my first Git Repository
 <br>
-author Akshya
+author Akshya Ak
